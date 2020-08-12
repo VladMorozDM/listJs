@@ -1,0 +1,4 @@
+# Project exclude paths
+/models/list.js
+/models/list.js.map
+/node_modules/
